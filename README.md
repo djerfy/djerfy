@@ -1,3 +1,5 @@
+![](assets/background.jpg)
+
 ### Hi there 👋
 
 <!--
