@@ -1,4 +1,4 @@
-![](assets/background.jpg)
+<img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background.jpg">
 
 ### Hi there 👋
 
