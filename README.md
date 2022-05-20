@@ -22,7 +22,39 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
 </div>
 
-## Github Stats
+## Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=djerfy&count_private=false&show_icons=true&theme=light&include_all_commits=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djerfy&theme=light&langs_count=4" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djerfy&count_private=false&show_icons=true&theme=light&include_all_commits=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djerfy&date_format=n%2Fj%5B%2FY%5D" />
+</div>
+
+## Social
+
+<div align="left">
+  <a href="">
+    <a href="">
+      <img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://twitter.com/djerfy">
+      <img height="30em" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </a>
+</div>
+
+## Services
+
+<div align="left">
+  <a href="https://gitlab.xorhak.io/">
+    <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://github.com/djerfy/">
+    <img height="30em" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+    <a href="https://xorhak.io/">
+    <img height="30em" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="XorHak" />
+  </a>
+  <a href="https://www.djerfy.com/">
+    <img height="30em" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="#DJERFY.com" />
+  </a>
+</div>
