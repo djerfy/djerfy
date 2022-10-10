@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg">
 
-### Welcome to my GitHub profile! I'm a Linux Engineer (L3) and Kubernetes/Docker expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Traefik Ambassador 🏆, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [twitter](https://twitter.com/djerfy), [email](mailto:djerfy@gmail.com) or [keybase](https://keybase.io/djerfy) and my website is [xorhak.io](https://xorhak.io). 🌱 🚀 
+### Welcome to my GitHub profile! I'm Cloud Builder and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [twitter](https://twitter.com/djerfy), [email](mailto:djerfy@gmail.com) or [keybase](https://keybase.io/djerfy) and my website is [xorhak.io](https://xorhak.io). 🌱 🚀 
 
 ## Stack
 
@@ -20,6 +20,17 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" alt="k3s" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="podman" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" />
 </div>
 
 ## Stats
