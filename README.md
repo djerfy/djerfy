@@ -54,6 +54,9 @@
     <a href="https://mastodon.top/@djerfy">
       <img height="30em" src="https://img.shields.io/badge/Mastodon-%231DA1F2.svg?style=for-the-badge&logo=Mastodon&logoColor=white&color=6364ff" alt="Mastodon" />
     </a>
+    <a href="https://keybase.io/djerfy">
+      <img height="30em" src="https://img.shields.io/badge/Keybase-%231DA1F2.svg?style=for-the-badge&logo=Keybase&logoColor=white&color=ff5a00" alt="Keybase" />
+    </a>
   </a>
 </div>
 
