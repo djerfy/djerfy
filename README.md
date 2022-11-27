@@ -75,7 +75,7 @@
   <a href="https://www.djerfy.com/">
     <img height="30em" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="#DJERFY.com" />
   </a>
-  <a href="https://artifacthub.io/packages/search?repo=djerfy">
+  <a href="https://artifacthub.io/packages/search?repo=djerfy-helm-charts">
     <img height="30em" src="https://img.shields.io/badge/ArtifactHUB-%23117AC9.svg?style=for-the-badge&logo=ArtifactHUB&logoColor=white" alt="ArtifactHUB" />
   </a>
 </div>
