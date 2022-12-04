@@ -31,6 +31,10 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="podman" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" />
 </div>
 
 ## Stats
