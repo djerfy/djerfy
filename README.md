@@ -39,8 +39,8 @@
 
 ## Stats
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djerfy&count_private=false&show_icons=true&theme=light&include_all_commits=true" />
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=djerfy&count_private=false&show_icons=true&theme=light&include_all_commits=true" />
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djerfy&date_format=n%2Fj%5B%2FY%5D" />
 </div>
