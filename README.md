@@ -6,7 +6,7 @@
 
 ## Stack
 
-<div align="left">
+<div align="center">
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" />
@@ -49,7 +49,7 @@
 
 ## Social
 
-<div align="left">
+<div align="center">
   <a href="">
     <a href="https://telegram.me/djerfy">
       <img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -68,7 +68,7 @@
 
 ## Services
 
-<div align="left">
+<div align="center">
   <a href="https://gitlab.xorhak.io/">
     <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
