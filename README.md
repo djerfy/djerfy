@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
+</div>
 
 ### Welcome to my GitHub profile! I'm Cloud Builder and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [Twitter](https://twitter.com/djerfy), [Mastodon](https://mastodon.top/@djerfy), [Telegram](https://telegram.me/djerfy), [email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my website is [xorhak.io](https://xorhak.io). 🌱 🚀 
 
@@ -82,4 +84,12 @@
   <a href="https://artifacthub.io/packages/search?repo=djerfy">
     <img height="30em" src="https://img.shields.io/badge/ArtifactHUB-%23117AC9.svg?style=for-the-badge&logo=ArtifactHUB&logoColor=white" alt="ArtifactHUB" />
   </a>
+</div>
+
+## OpenChia
+
+Frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
+
+<div align="center">
+  <img src="https://openchia.io/en/assets/img/landing/mockup-1.png" height="200px" />
 </div>
