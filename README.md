@@ -39,6 +39,7 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" />
 </div>
 
+<!--
 ## Stats
 
 <div align="center"> 
@@ -46,6 +47,7 @@
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djerfy&date_format=n%2Fj%5B%2FY%5D" />
 </div>
+-->
 
 ## Social
 
