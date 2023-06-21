@@ -80,7 +80,7 @@
 
 ## OpenChia
 
-Also I'm frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
+I'm frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
 
 <div align="center">
   <img src="https://openchia.io/en/assets/img/landing/mockup-1.png" height="200px" />
