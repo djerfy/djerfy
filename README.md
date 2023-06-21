@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
 </div>
 
-### Welcome to my GitHub profile! I'm Cloud Builder and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [Twitter](https://twitter.com/djerfy), [Mastodon](https://mastodon.top/@djerfy), [Telegram](https://telegram.me/djerfy), [email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my website is [xorhak.io](https://xorhak.io). 🌱 🚀 
+### Welcome on my GitHub profile! I'm Tech Lead SRE at Axians and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [Twitter](https://twitter.com/djerfy), [Mastodon](https://mastodon.top/@djerfy), [Telegram](https://telegram.me/djerfy), [email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
 
 ## Stack
 
@@ -39,16 +39,6 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" />
 </div>
 
-<!--
-## Stats
-
-<div align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djerfy&count_private=false&show_icons=true&theme=light&include_all_commits=true" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=djerfy&date_format=n%2Fj%5B%2FY%5D" />
-</div>
--->
-
 ## Social
 
 <div align="center">
@@ -72,7 +62,7 @@
 
 <div align="center">
   <a href="https://gitlab.xorhak.io/">
-    <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=fc6d26" alt="GitLab" />
   </a>
   <a href="https://github.com/djerfy/">
     <img height="30em" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -90,7 +80,7 @@
 
 ## OpenChia
 
-Frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
+Also I'm frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
 
 <div align="center">
   <img src="https://openchia.io/en/assets/img/landing/mockup-1.png" height="200px" />
