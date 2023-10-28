@@ -24,6 +24,9 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" />
+</div>
+<br/>
+<div align="center">
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" />
@@ -37,6 +40,7 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" />
+  <img height="30em" src="https://iconape.com/wp-content/files/tx/370608/svg/370608.svg" alt="aws" />
 </div>
 
 ## Social
@@ -61,20 +65,23 @@
 ## Services
 
 <div align="center">
-  <a href="https://gitlab.xorhak.io/">
+  <a href="https://gitlab.apps.xcore.fr/">
     <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=fc6d26" alt="GitLab" />
   </a>
   <a href="https://github.com/djerfy/">
     <img height="30em" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-    <a href="https://xorhak.io/">
+    <a href="https://xorhak.fr/">
     <img height="30em" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="XorHak" />
   </a>
-  <a href="https://www.djerfy.com/">
+  <a href="https://archive.djerfy.com/">
     <img height="30em" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="#DJERFY.com" />
   </a>
   <a href="https://artifacthub.io/packages/search?repo=djerfy">
     <img height="30em" src="https://img.shields.io/badge/ArtifactHUB-%23117AC9.svg?style=for-the-badge&logo=ArtifactHUB&logoColor=white" alt="ArtifactHUB" />
+  </a>
+  <a href="https://hub.docker.com/u/djerfy">
+    <img height="30em" src="https://img.shields.io/badge/DockerHUB-%23117AC9.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHUB" />
   </a>
 </div>
 
