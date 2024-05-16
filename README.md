@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
+  <img style="max-width: 100%; border-radius: 0.375rem !important;" src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
 </div>
 
-### Welcome on my GitHub profile! I'm Tech Lead SRE at Axians and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC and #RFID! Member of [OpenChia](https://openchia.io) Team 🌱. Available on [Twitter](https://twitter.com/djerfy), [Mastodon](https://mastodon.top/@djerfy), [Telegram](https://telegram.me/djerfy), [email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
+### Welcome on my GitHub profile! I'm Tech Lead SRE at Axians and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Python, #Hacking, #NFC/#RFID and #Blockchain #Chia! Member of [OpenChia.io](https://openchia.io) and [Pool.Energy](https://pool.energy) teams 🌱. Available on [Twitter](https://twitter.com/djerfy), [Mastodon](https://mastodon.top/@djerfy), [Telegram](https://telegram.me/djerfy), [email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
 
 ## Stack
 
@@ -46,43 +46,21 @@
 ## Social
 
 <div align="center">
-  <a href="">
-    <a href="https://telegram.me/djerfy">
-      <img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://twitter.com/djerfy">
-      <img height="30em" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://mastodon.top/@djerfy" rel="me">
-      <img height="30em" src="https://img.shields.io/badge/Mastodon-%231DA1F2.svg?style=for-the-badge&logo=Mastodon&logoColor=white&color=6364ff" alt="Mastodon" />
-    </a>
-    <a href="https://keybase.io/djerfy">
-      <img height="30em" src="https://img.shields.io/badge/Keybase-%231DA1F2.svg?style=for-the-badge&logo=Keybase&logoColor=white&color=ff5a00" alt="Keybase" />
-    </a>
-  </a>
+  <a href="https://telegram.me/djerfy"><img height="30em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://twitter.com/djerfy"><img height="30em" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://mastodon.top/@djerfy" rel="me"><img height="30em" src="https://img.shields.io/badge/Mastodon-%231DA1F2.svg?style=for-the-badge&logo=Mastodon&logoColor=white&color=6364ff" alt="Mastodon" /></a>
+  <a href="https://keybase.io/djerfy"><img height="30em" src="https://img.shields.io/badge/Keybase-%231DA1F2.svg?style=for-the-badge&logo=Keybase&logoColor=white&color=ff5a00" alt="Keybase" ></a>
 </div>
 
 ## Services
 
 <div align="center">
-  <a href="https://gitlab.apps.xcore.fr/">
-    <img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=fc6d26" alt="GitLab" />
-  </a>
-  <a href="https://github.com/djerfy/">
-    <img height="30em" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-    <a href="https://xorhak.fr/">
-    <img height="30em" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="XorHak" />
-  </a>
-  <a href="https://archive.djerfy.com/">
-    <img height="30em" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="#DJERFY.com" />
-  </a>
-  <a href="https://artifacthub.io/packages/search?repo=djerfy">
-    <img height="30em" src="https://img.shields.io/badge/ArtifactHUB-%23117AC9.svg?style=for-the-badge&logo=ArtifactHUB&logoColor=white" alt="ArtifactHUB" />
-  </a>
-  <a href="https://hub.docker.com/u/djerfy">
-    <img height="30em" src="https://img.shields.io/badge/DockerHUB-%23117AC9.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHUB" />
-  </a>
+  <a href="https://gitlab.apps.xcore.fr/"><img height="30em" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=fc6d26" alt="GitLab" /></a>
+  <a href="https://github.com/djerfy/"><img height="30em" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://xorhak.fr/"><img height="30em" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="XorHak" /></a>
+  <a href="https://archive.djerfy.com/"><img height="30em" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="#DJERFY.com" /></a>
+  <a href="https://artifacthub.io/packages/search?repo=djerfy"><img height="30em" src="https://img.shields.io/badge/ArtifactHUB-%23117AC9.svg?style=for-the-badge&logo=ArtifactHUB&logoColor=white" alt="ArtifactHUB" /></a>
+  <a href="https://hub.docker.com/u/djerfy"><img height="30em" src="https://img.shields.io/badge/DockerHUB-%23117AC9.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHUB" /></a>
 </div>
 
 ## OpenChia
