@@ -63,10 +63,24 @@
   <a href="https://hub.docker.com/u/djerfy"><img height="30em" src="https://img.shields.io/badge/DockerHUB-%23117AC9.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHUB" /></a>
 </div>
 
-## OpenChia
+## Blockchain
 
-I'm frontend developer on [OpenChia](https://openchia.io), based on a Angular stack. OpenChia is an open-source [Chia](https://www.chia.net) (XCH) pool you can trust.
+### OpenChia (Chia)
+
+Frontend developer on [OpenChia](https://openchia.io), a Angular stack (OpenChia is an open-source).
 
 <div align="center">
-  <img src="https://openchia.io/en/assets/img/landing/mockup-1.png" height="200px" />
+  <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/openchia.png" />
 </div>
+
+### PoolEnergy (Chia)
+
+Fullstack developer on [PoolEnergy](https://pool.energy), a Python and Angular (PoolEnergy isn't open-source).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/poolenergy.png" />
+</div>
+
+### VKBit (Bitcoin)
+
+Frontend developer (sometimes) on [VKBit](https://vkbit.com), (VBKit isn't open-source).
