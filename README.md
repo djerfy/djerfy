@@ -80,7 +80,3 @@ Fullstack developer on [PoolEnergy](https://pool.energy), a Python and Angular (
 <div align="center">
   <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/poolenergy.png" />
 </div>
-
-### VKBit (Bitcoin)
-
-Frontend developer (sometimes) on [VKBit](https://vkbit.com), (VBKit isn't open-source).
