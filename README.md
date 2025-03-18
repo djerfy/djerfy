@@ -67,7 +67,7 @@
 
 ### OpenChia (Chia)
 
-Frontend developer on [OpenChia](https://openchia.io), with a Angular stack (OpenChia is an open-source).
+Frontend developer on [OpenChia](https://openchia.io), with a Angular stack ([Github sources](https://github.com/openchia)).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/openchia.png" />
@@ -75,7 +75,7 @@ Frontend developer on [OpenChia](https://openchia.io), with a Angular stack (Ope
 
 ### PoolEnergy (Chia)
 
-Fullstack developer on [PoolEnergy](https://pool.energy), with a Python and Angular stacks (PoolEnergy isn't open-source).
+Fullstack developer on [PoolEnergy](https://pool.energy), with a Python and Angular stacks ([Github sources](https://github.com/Pool-Energy)).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/poolenergy.png" />
