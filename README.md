@@ -2,7 +2,7 @@
   <img style="max-width: 100%; border-radius: 0.375rem !important;" src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
 </div>
 
-### Welcome on my GitHub profile! I'm Tech Lead SRE and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Caddy, #Python, #Hacking, #NFC/#RFID and #Blockchain #Chia! Member of [OpenChia.io](https://openchia.io) and [Pool.Energy](https://pool.energy) teams 🌱. Available on [X](https://x.com/djerfy), [Bluesky](https://bsky.app/profile/djerfy.bsky.social), [Telegram](https://telegram.me/djerfy), [Email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
+### Welcome on my GitHub profile! I'm Cloud Solutions Architect and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Caddy, #Python, #Hacking, #NFC/#RFID and #Blockchain #Chia! Member of [OpenChia.io](https://openchia.io) and [Pool.Energy](https://pool.energy) teams 🌱. Available on [X](https://x.com/djerfy), [Bluesky](https://bsky.app/profile/djerfy.bsky.social), [Telegram](https://telegram.me/djerfy), [Email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
 
 ## Stack
 
