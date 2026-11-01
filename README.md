@@ -79,5 +79,5 @@
 [Aurora](https://github.com/djerfy/unraid-aurora) is an independent control plane for Unraid that replaces the PHP/jQuery webGUI experience with a typed Go API and a React 19 single-page app. It reads the live host state directly, validates the `root` account against the host shadow database and streams telemetry over SSE. Beyond the dashboard — array, storage, containers, virtual machines and network — it focuses on safe operations: configuration snapshots with diff and rollback, disk rebalancing with dry-run, and a live mover. AGPL-3.0.
 
 <div align="center">
-  <a href="https://github.com/djerfy/unraid-aurora"><img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/unraid-aurora-dashboard.png" alt="Aurora dashboard — Unraid control plane" /></a>
+  <a href="https://github.com/djerfy/unraid-aurora"><img src="https://raw.githubusercontent.com/djerfy/djerfy/main/assets/unraid-aurora-dashboard.png" alt="Aurora dashboard — Unraid control plane" /></a>
 </div>
