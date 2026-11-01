@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="max-width: 100%; border-radius: 0.375rem !important;" src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/background_3.jpg" />
+  <img style="max-width: 100%; border-radius: 0.375rem !important;" src="https://raw.githubusercontent.com/djerfy/djerfy/main/assets/background_3.jpg" />
 </div>
 
 ### Welcome on my GitHub profile! I'm Cloud Solutions Architect and Docker/Kubernetes expert. Like #Apple, #Linux, #Docker, #Kubernetes, #Cloud, #Traefik, #Caddy, #Python, #Hacking, #NFC/#RFID and #Blockchain #Chia! I build and operate [Pool.Energy](https://pool.energy), an open-source Chia farming pool 🌱. Available on [Bluesky](https://bsky.app/profile/djerfy.bsky.social), [𝕏](https://x.com/djerfy), [Telegram](https://telegram.me/djerfy), [Email](mailto:djerfy@gmail.com) or [Keybase](https://keybase.io/djerfy) and my websites are [xorhak.fr](https://xorhak.fr), [xcore.fr](https://xcore.fr) and [djerfy.com](https://archive.djerfy.com). 🌱 🚀 
@@ -71,7 +71,7 @@
 [Pool.Energy](https://pool.energy) is a Chia farming pool built on the official pool protocol, with PPLNS rewards and full transparency on blocks, partials, payouts and farmer statistics. I build and operate the entire platform — the pool server, the REST/WebSocket API, the Angular dashboard and the Discord bot — all developed in the open within the [Pool-Energy](https://github.com/Pool-Energy) organisation. The stack is Python (asyncio, Django REST, Channels) and TypeScript (Angular), backed by PostgreSQL, InfluxDB and Redis, and shipped as Docker images.
 
 <div align="center">
-  <a href="https://pool.energy"><img src="https://raw.githubusercontent.com/djerfy/djerfy/master/assets/poolenergy.png" alt="Pool.Energy dashboard — farmer detail page" /></a>
+  <a href="https://pool.energy"><img src="https://raw.githubusercontent.com/djerfy/djerfy/main/assets/poolenergy.png" alt="Pool.Energy dashboard — farmer detail page" /></a>
 </div>
 
 ### Aurora — a modern control plane for Unraid
